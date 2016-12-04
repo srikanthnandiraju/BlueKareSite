@@ -98,7 +98,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": false,
             "showBrand": true,
@@ -484,6 +484,14 @@
             "Extension"
           ],
           "_name": "extFeatures13",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#f97352"
+            }
+          },
           "_anchor": "extFeatures13-l",
           "_params": {
             "iconsColor": "#000000",
@@ -665,15 +673,7 @@
               "family": "et-line"
             }
           },
-          "bottomTitle": "STAY HEALTHY",
-          "_styles": {
-            ".etl-icon": {
-              "color": "#000000"
-            },
-            ".mbr-section-title": {
-              "color": "#f97352"
-            }
-          }
+          "bottomTitle": "STAY HEALTHY"
         },
         {
           "_tags": [
