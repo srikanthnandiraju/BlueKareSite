@@ -149,7 +149,7 @@
           },
           "title": "Health care IoT platform",
           "text": "Measure, Monitor and Manage your health with the BlueKare Iot healthcare platform",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://bluekare.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR IOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR ANDROID</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://bluekare.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR IOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://bluekare.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR ANDROID</a>"
         },
         {
           "_styles": {
@@ -450,12 +450,12 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-h",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#fac51c",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -480,7 +480,7 @@
           "_name": "extFeatures13",
           "_anchor": "extFeatures13-l",
           "_params": {
-            "iconsColor": "#666666",
+            "iconsColor": "#000000",
             "blocks": "3",
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -505,12 +505,13 @@
           "date1": "1 January 2016",
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
               "name": "layers",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "color": "#666666",
-              "family": "et-line"
+              "color": "#7ac673"
             }
           },
           "title1": "1. Use BlueKare Smart Health app",
@@ -539,7 +540,7 @@
               "family": "et-line"
             }
           },
-          "title3": "3. Smart Watch",
+          "title3": "3. Analyze health data",
           "text3": "Analyze and visualize healthcare data. Our platform integrates into &nbsp;IBM Watson and Google tensel flow predective analytics engines to give &nbsp;health data insights",
           "date4": "4 April 2016",
           "title4": "4. Design out of the box",
@@ -661,7 +662,10 @@
           "bottomTitle": "STAY HEALTHY",
           "_styles": {
             ".etl-icon": {
-              "color": "#666666"
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#f97352"
             }
           }
         },
@@ -672,12 +676,12 @@
           "_name": "social-buttons1",
           "_anchor": "social-buttons1-o",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
