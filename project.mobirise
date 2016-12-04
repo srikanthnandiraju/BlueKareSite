@@ -326,7 +326,7 @@
             "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
-            "bgColor": "#303030",
+            "bgColor": "#333333",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -442,6 +442,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -455,7 +461,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#fac51c",
+            "bgColor": "#444444",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -706,7 +712,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#222222",
+            "bgColor": "#333333",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,

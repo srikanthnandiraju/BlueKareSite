@@ -741,6 +741,12 @@ h6,
 #msg-box3-h p {
   color: #000;
 }
+#msg-box3-h .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-h .lead P {
+  color: #efefef;
+}
 #extFeatures13-l .etl-icon {
   color: #000000;
 }
