@@ -204,7 +204,7 @@
               "name": "phone",
               "family": "et-line",
               "active": true,
-              "link": "https://bluekare.com",
+              "link": "#",
               "size": 0,
               "color": "black",
               "newWindow": false
@@ -221,7 +221,7 @@
               "name": "cloud",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://bluekare.com",
+              "link": "#",
               "size": 0,
               "color": "black",
               "newWindow": false
@@ -238,7 +238,7 @@
               "name": "growing-chart",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://bluekare.com",
+              "link": "#",
               "size": 0,
               "color": "black",
               "newWindow": false
@@ -484,7 +484,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/JYmn4GEtvKU",
+              "src": "https://youtu.be/GCBCDW1EVQI",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
